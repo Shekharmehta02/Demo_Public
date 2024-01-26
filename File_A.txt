@@ -2,3 +2,9 @@ Line 1
 Line 2
 Line 3
 Line 4
+New Line added after cloning repos from repo
+
+LINE - 1
+LINE - 2
+LINE - 3
+LINE - 4
